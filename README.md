@@ -1,20 +1,76 @@
-# My_Developer_Journey
+# **Cloud & DevOps Learning Journey**  
 
-# 👩‍💻 Hello, I'm Malka!
+### **Current Focus**  
+Final-year BCA student building expertise in cloud-native technologies through hands-on practice.  
 
-I'm a second-year BCA student with a foundation in the basics of C and C++. While these languages gave me a good starting point, I wanted to explore something more modern, lightweight, and aligned with current development trends.
+### **Learning Path**  
+- **Languages:** Golang (primary), C/C++ (prior experience)  
+- **Platforms:** Linux (Ubuntu), Virtualization (VirtualBox)  
+- **Core Stack:** Git, Docker, Kubernetes, Networking  
+- **Method:** Project-based learning + open-source contributions  
 
-After doing some research, I chose to learn **Golang (Go)** — a clean, fast, and efficient language that felt exciting and practical for real-world projects. I want to learn by doing, not just watching tutorials.
+### **Progress**  
 
-While preparing to learn Go, I discovered that **Linux is widely used for development** and decided to set it up myself. I watched videos, read blogs, and installed **VirtualBox and Ubuntu**. It was a challenging process — it took me about **6 days**, working **3–4 hours a day**. There were moments of frustration, but I didn’t give up.
+#### **Week 1 (June 12–19, 2025)**  
+- Set up Ubuntu on VirtualBox (self-guided, 6 days troubleshooting).  
+- Configured Go development environment (VS Code, CLI tooling).  
+- Practiced Git workflows for collaboration.  
 
-Finally, I set up my development environment with **Ubuntu, VS Code, and Golang**. Now I'm ready to dive into Go development and build my skills one step at a time. 🙌
+#### **Week 2 (June 20–26, 2025)**  
+- Learned Go fundamentals (syntax, functions, error handling).  
+- Explored concurrency (goroutines, channels) and interfaces.  
+- Compared Go vs. C/C++ memory management and design patterns.  
 
-This repository is my **learning journal**, where I document:
-- ✅ What I’ve learned in Go
-- 💥 Challenges I face along the way
-- 🔍 How I solve or understand those challenges
+### **Next Steps**  
+1. **Deepen Systems Knowledge:**  
+   - Linux internals (processes, networking, permissions).  
+   - Containerization (Docker) and orchestration (Kubernetes).  
+2. **Contribute to CNCF Projects:**  
+   - Document findings and submit small fixes (docs, tests).  
 
-I have many goals, but at this stage, I’m focused on starting — and seeing where this **learning-by-doing** journey takes me.
+### **Why This Approach?**  
+- Cloud-native tools demand **practical fluency**, not just theoretical knowledge.  
+- Open-source contributions force **real-world problem-solving**.  
+- Public documentation holds me accountable and helps others.  🧠 Topics Covered (Ongoing)
 
-Let’s grow together! 🚀 
+✅ Golang basics & concurrency
+
+✅ Git workflows & version control
+
+🔄 Linux internals (bash, permissions, processes)
+
+🔄 Docker (containerization, images, volumes)
+
+🔄 Kubernetes (orchestration with Minikube/Kind)
+
+🔄 Networking (OSI/TCP-IP, ports, tools)
+
+🔄 Open-source contributions to CNCF projects
+
+
+
+---
+
+📌 Goals
+
+Master DevOps fundamentals with real-world projects
+
+Contribute to CNCF open-source projects
+
+Build a portfolio for internships and LFX mentorships
+
+Help others learn with beginner-friendly tutorials
+
+
+
+---
+
+🤝 Let's Connect!
+
+Feel free to explore, learn, and contribute ideas!
+Want to collaborate or give feedback? Reach out via GitHub Issues or fork the repo!
+
+
+---
+
+> 🚧 This repo is a work-in-progress and constantly evolving. Stay tuned for new content every week!
