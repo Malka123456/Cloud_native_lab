@@ -16,7 +16,7 @@ Final-year BCA student building expertise in cloud-native technologies through h
 - Configured Go development environment (VS Code, CLI tooling).  
 - Practiced Git workflows for collaboration.  
 
-#### **Week 2 (June 20–26, 2025)**  
+#### **Week 2 (June 20–26, 2025)** 
 - Learned Go fundamentals (syntax, functions, error handling).  
 - Explored concurrency (goroutines, channels) and interfaces.  
 - Compared Go vs. C/C++ memory management and design patterns.  
