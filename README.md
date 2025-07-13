@@ -9,24 +9,6 @@ Final-year BCA student building expertise in cloud-native technologies through h
 - **Core Stack:** Git, Docker, Kubernetes, Networking  
 - **Method:** Project-based learning + open-source contributions  
 
-### **Progress**  
-
-#### **Week 1 (June 12–19, 2025)**  
-- Set up Ubuntu on VirtualBox (self-guided, 6 days troubleshooting).  
-- Configured Go development environment (VS Code, CLI tooling).  
-- Practiced Git workflows for collaboration.  
-
-#### **Week 2 (June 20–26, 2025)** 
-- Learned Go fundamentals (syntax, functions, error handling).  
-- Explored concurrency (goroutines, channels) and interfaces.  
-- Compared Go vs. C/C++ memory management and design patterns.  
-
-### **Next Steps**  
-1. **Deepen Systems Knowledge:**  
-   - Linux internals (processes, networking, permissions).  
-   - Containerization (Docker) and orchestration (Kubernetes).  
-2. **Contribute to CNCF Projects:**  
-   - Document findings and submit small fixes (docs, tests).  
 
 ### **Why This Approach?**  
 - Cloud-native tools demand **practical fluency**, not just theoretical knowledge.  
@@ -37,13 +19,13 @@ Final-year BCA student building expertise in cloud-native technologies through h
 
 ✅ Git workflows & version control
 
-🔄 Linux internals (bash, permissions, processes)
+✅ Linux internals (bash, permissions, processes)
 
-🔄 Docker (containerization, images, volumes)
+✅ Docker (containerization, images, volumes)
 
-🔄 Kubernetes (orchestration with Minikube/Kind)
+✅ Kubernetes (orchestration with Minikube/Kind)
 
-🔄 Networking (OSI/TCP-IP, ports, tools)
+✅ Networking (OSI/TCP-IP, ports, tools)
 
 🔄 Open-source contributions to CNCF projects
 
